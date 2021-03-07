@@ -1,3 +1,4 @@
+//Created by Ghanem Ghanem
 import java.util.*;
 public class Lucky {
  
